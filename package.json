@@ -1,5 +1,5 @@
 {
-  "name": "expo-updater",
+  "name": "expo-version-updater",
   "version": "1.0.0",
   "description": "easier version update for Expo app",
   "type": "module",
