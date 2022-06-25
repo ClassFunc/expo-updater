@@ -1,7 +1,7 @@
 {
   "name": "expo-updater",
   "version": "1.0.0",
-  "description": "",
+  "description": "easier version update for Expo app",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,15 @@
   "bin": {
     "exup": "./index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "expo",
+    "expo-updater"
+  ],
+  "repository": {
+    "url": "https://github.com/ClassFunc/expo-updater"
+  },
+  "author": "ClassFunc Softwares JSC",
+  "license": "MIT",
   "devDependencies": {
     "zx": "^7.0.2"
   },
