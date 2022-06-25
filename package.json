@@ -1,0 +1,22 @@
+{
+  "name": "expo-updater",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "exup": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "zx": "^7.0.2"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
